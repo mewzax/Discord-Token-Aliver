@@ -1,3 +1,3 @@
 # Discord-Token-Aliver
 
-lol
+So this is a simple token aliver in golang, useful for server members boosting
