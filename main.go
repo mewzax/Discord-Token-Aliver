@@ -9,7 +9,7 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/zenthangplus/goccm"
-	"github.com/mewzax/discordgo"
+	"github.com/bwmarrin/discordgo"
 )
 
 func getTokens(path string) []string {

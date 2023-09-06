@@ -5,7 +5,6 @@ go 1.19
 require (
 	github.com/bwmarrin/discordgo v0.20.3
 	github.com/gofiber/fiber/v2 v2.38.1
-	github.com/mewzax/discordgo v1.69.0
 	github.com/zenthangplus/goccm v1.1.2
 )
 
